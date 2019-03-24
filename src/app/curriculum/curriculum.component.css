@@ -1,0 +1,16 @@
+.titulo {
+    text-align: center;
+}
+.mat-card {
+    margin: 20px;
+}
+
+.rodape {
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    background-color: #3f51b5;
+    color: #FFF;
+    text-align: center;
+  }
